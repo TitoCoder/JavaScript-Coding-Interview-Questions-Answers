@@ -1,3 +1,5 @@
+# Write a function to reverse an array
+
 # Problem Description
 Given an array of elements, the task is to write a function that reverses the order of the elements in the array using a loop.
 
