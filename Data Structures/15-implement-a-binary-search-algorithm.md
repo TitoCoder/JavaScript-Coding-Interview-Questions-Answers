@@ -1,3 +1,4 @@
+# Write a function to implement a binary search algorithm
 ## Problem Description
 
 Binary search is a fundamental algorithm used to efficiently search for a target value within a sorted array. The algorithm works by repeatedly dividing the search interval in half until the target value is found or the search interval becomes empty.

@@ -1,3 +1,4 @@
+# Write a function to check if two strings are anagrams
 ## Problem Description
 
 An anagram is a word or phrase formed by rearranging the letters of another word or phrase. For example, the words "listen" and "silent" are anagrams because they both use the same letters (l, i, s, t, e, n) in a different order.

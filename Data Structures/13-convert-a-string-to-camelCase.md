@@ -1,3 +1,4 @@
+# Write a function to convert a string to camelCase
 ## Problem Description
 
 The task is to write a function that takes a string as input and converts it to camelCase format. In camelCase, the first word starts with a lowercase letter, and each subsequent word starts with an uppercase letter, with no spaces between the words.
